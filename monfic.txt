@@ -2,3 +2,4 @@ initialisation
 un
 deux
 trois
+bateau
