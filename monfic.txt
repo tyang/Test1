@@ -1,9 +1,5 @@
 initialisation
 un
-<<<<<<< HEAD
 deux
 trois
 bateau
-=======
-
->>>>>>> master
