@@ -8,4 +8,5 @@ for i in range(1, 3000):
     res = res+i
     print('{0} + {1} = {2}'.format(prev_res, i, res))
 
-print("coucou c nous")
+print("coucou cest nous")
+
