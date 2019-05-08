@@ -1,7 +1,6 @@
 '''
 coucou c nous
 '''
-import request
 
 res = 0
 for i in range(1, 3000):
